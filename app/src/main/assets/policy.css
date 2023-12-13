@@ -1,0 +1,19 @@
+.center {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 30px;
+}
+header  {
+    background: steelblue;
+}
+h2   {
+    background: powderblue;
+}
+p    {
+    background: azure;
+}
+u   {
+    color: steelblue;
+}

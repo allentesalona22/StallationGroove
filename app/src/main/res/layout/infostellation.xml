@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+    <TextView
+            android:id="@+id/energyBAllTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:text="Total Golden Meteorite"
+            android:textColor="#ffd900"
+            android:textSize="16dp"
+            android:textStyle="bold" />
+
+    <TextView
+            android:id="@+id/energyBall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:text="250,000"
+            android:textColor="#ffd900"
+            android:textSize="@dimen/text_jackpot"
+            android:textStyle="bold" />
+
+    <RelativeLayout
+            android:id="@+id/layoutCombi"
+            android:layout_width="300dp"
+            android:layout_height="130dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="70dp"
+            android:background="@drawable/combin">
+    </RelativeLayout>
+
+</RelativeLayout>
