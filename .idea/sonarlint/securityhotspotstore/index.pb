@@ -9,3 +9,11 @@ m
 =app/src/main/java/dev/SG/stellationgroove/StellationMain.java,a\7\a7226830365e6e1978598fa743290dce5f689d7f
 m
 =app/src/main/java/dev/sg/stellationgroove/StellationMain.java,c\5\c58868a71534b6bdf0963e65840bb86962913a09
+l
+<app/src/main/java/dev/sg/stellationgroove/CustomManager.java,5\d\5df0a5ddacc95439ffe26c30e70408360be0d5d1
+h
+8app/src/main/java/dev/sg/stellationgroove/GameLogic.java,8\4\84c4ed3f6764058738b6451d6f91e9204d4f92ca
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
