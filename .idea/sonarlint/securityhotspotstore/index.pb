@@ -35,3 +35,5 @@ Q.idea/sonarlint/securityhotspotstore/9/f/9fe84ebb15faf917b7def6236dba604453cc61
 Q.idea/sonarlint/securityhotspotstore/8/8/88a9255124c95bdc913197c120a8d560edc59c8e,9\0\909762385fc6eb20f922a91c6865741308b57f2c
 i
 9app/src/main/java/dev/sg/stellationgroove/PrivacyPol.java,d\1\d189d51d7101d3220b1303cf5eac32795af9f8b1
+k
+;app/src/main/java/dev/sg/stellationgroove/GlobalWebSet.java,a\a\aa42214efe1905d92b03e2ae82ffa0bdbca843d3
