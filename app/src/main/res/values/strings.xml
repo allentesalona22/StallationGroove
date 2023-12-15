@@ -2,5 +2,9 @@
     <string name="app_name">Stellation Groove</string>
     <string name="win_splash">YOU WON!</string>
     <string name="coins">Golden Meteorite</string>
+    <string name="playBtn">play button</string>
+    <string name="privacybtn">privacy policy button</string>
+    <string name="quitbtn">quit button</string>
+    <string name="splashVid">splash video</string>
 
 </resources>

@@ -31,6 +31,7 @@
 
     <ImageButton
             android:background="@drawable/playbtn"
+            android:contentDescription="@string/playBtn"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
@@ -45,6 +46,7 @@
 
     <ImageButton
             android:background="@drawable/privacybtn"
+            android:contentDescription="@string/privacybtn"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
@@ -58,7 +60,7 @@
 
     <ImageButton
             android:background="@drawable/quitbtn"
-            android:text="Quit Game"
+            android:contentDescription="@string/quitbtn"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"

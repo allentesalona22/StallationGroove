@@ -1,19 +1,22 @@
 .center {
     text-align: center;
     margin: auto;
-    width: 50%;
+    width: 75%;
     border: 3px solid black;
     padding: 30px;
 }
 header  {
-    background: steelblue;
+    background: #111C5F;
+    color:white;
 }
 h2   {
-    background: powderblue;
+    background: #004D4D;
+    color: white;
 }
 p    {
-    background: azure;
+    background: #2C40D8;
+    color: white;
 }
 u   {
-    color: steelblue;
+    color: #000000;
 }
