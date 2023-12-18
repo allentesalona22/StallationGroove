@@ -2,6 +2,7 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.StellationGroove" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
-         <item name="colorPrimary">#3F51B5</item>
+        <item name="android:windowDisablePreview">true</item>
+         <item name="colorPrimary">#8A97D6</item>
     </style>
 </resources>
